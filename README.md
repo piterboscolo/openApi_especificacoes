@@ -13,7 +13,7 @@ Para visualizar as especificações fazer clone do projeto e importar o projeto 
 Os arquivos encontram-se em dois formatos: JSON E YAML
 
 
-**Link das Apicações**
+**Link das Aplicações**
 
 
 https://app.swaggerhub.com/apis/piterboscolo6/especificacao_autenticacao_usuario/1.0.0
