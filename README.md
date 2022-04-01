@@ -14,6 +14,8 @@ Os arquivos encontram-se em dois formatos: JSON E YAML
 
 
 **Link das Apicações**
+
+
 https://app.swaggerhub.com/apis/piterboscolo6/especificacao_autenticacao_usuario/1.0.0
 
 https://app.swaggerhub.com/apis/piterboscolo6/espicificacao_criacao_conta_usuario/1.0.0
